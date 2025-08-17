@@ -1,8 +1,8 @@
-## ℹ About Me
+## ĭ About Me
 
 I'm Louis. I have worked on cool projects like https://superfocus.me, and am now contributing to open source.
 
-## ⼯ My work
+## ䷑ My work
 
 I'm a full stack dev, written 500k+ lines of Swift developing iOS apps. Getting more involved in full-stack web applications after being Rails-pilled by DHH
 
